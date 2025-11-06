@@ -4,6 +4,12 @@
 🌱 Passionate developer with 2+ years of hands-on experience in building responsive, scalable, and maintainable web & hybrid mobile applications.  
 I love turning ideas into clean, efficient code and continuously learning modern frameworks & tools.
 
+
+## 📫 Connect With Me
+📧 **suryapillutla007@gmail.com**  
+💼 [**LinkedIn**](https://www.linkedin.com/in/surya-pillutla-b751b024a/)  
+🐙 [**Gitlab**](https://gitlab.com/IamSurya007)
+
 ---
 
 ## 🧠 What I’ve Learned
@@ -29,17 +35,6 @@ I love turning ideas into clean, efficient code and continuously learning modern
 | **EchoWave**              | Personal social media platform supporting real-time chat, posts, and interactions using the **MERN** stack.                                                                                                                        | React · Node.js · Express · MongoDB · Socket.io · Tailwind CSS     |
 | **VVIT LearnSpace**       | Academic collaboration portal for sharing resources, projects, and coding roadmaps among students.                                                                                                                                 | React · Node.js · Express · MongoDB                                |
 
-
----
-## 📊 GitLab Stats
-![Surya's GitLab Stats](https://gitlab-stats.vercel.app/api?username=IamSurya007&theme=radical)
-
-## 🔥 GitLab Contribution Graph
-![GitLab Contribution Graph](https://gitlab-contributions.vercel.app/api?username=IamSurya007&theme=dark)
-
-
----
-
 ## 🛠️ Tech Stack Badges
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -52,12 +47,6 @@ I love turning ideas into clean, efficient code and continuously learning modern
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
----
-
-## 📫 Connect With Me
-📧 **suryapillutla007@gmail.com**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/surya-pillutla-b751b024a/)  
-🐙 [**Gitlab**](https://gitlab.com/IamSurya007)
 
 ---
 

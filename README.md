@@ -31,10 +31,12 @@ I love turning ideas into clean, efficient code and continuously learning modern
 
 
 ---
+## 📊 GitLab Stats
+![Surya's GitLab Stats](https://gitlab-stats.vercel.app/api?username=IamSurya007&theme=radical)
 
-## 📊 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSurya007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSurya007&layout=compact&theme=radical)
+## 🔥 GitLab Contribution Graph
+![GitLab Contribution Graph](https://gitlab-contributions.vercel.app/api?username=IamSurya007&theme=dark)
+
 
 ---
 

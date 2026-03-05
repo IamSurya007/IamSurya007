@@ -1,7 +1,6 @@
-<h1 align="center">
-  👋 Hi, I'm <br>
-  <span style="font-size: 48px;">Surya Pillutla</span>
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Surya+Pillutla"/>
+</p>
 
 ### 💻 Frontend & Full Stack Developer (Angular • Ionic • React • Node.js • TypeScript)
 

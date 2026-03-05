@@ -46,34 +46,35 @@ I love turning ideas into clean, efficient code and constantly exploring modern 
 
 ### **Databases**
 - MongoDB • MySQL (CRUD operations)
-
 ---
 
-## 🚀 Featured Projects
+# 🧠 Tech Stack
+| Categories | Technologies |
+|-----------|-------------|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=blue) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=postman&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+
+
+# 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **EventReply** | Production-grade event & RSVP management platform used by **10K+ users**. Improved Lighthouse **20% → 80%+**, implemented Jest tests, added Sentry, and optimized performance with lazy loading, caching & code-splitting (**2.5× faster loads**). | Angular • Ionic • TypeScript • Jest • Sentry • REST API • CloudFront |
-| **Frensy** | Hybrid **home-services + social** platform. Automated Android builds using GitLab CI/CD, set up release pipelines, and integrated **200K+ listings** with scraping. | Angular • Ionic • TypeScript • scrape-it • GitLab CI/CD |
-| **Dating App (Internal)** | Built real-time **chat system** with AWS Serverless + WebSockets for ultra-low-latency messaging in Ionic. | AWS Lambda • WebSockets • Node.js • Ionic • TypeScript |
-| **EchoWave (MERN)** | Social app with posts, likes, chat, and real-time interactions. | React • Node.js • Express • MongoDB • Socket.io • Tailwind |
-| **VVIT LearnSpace** | Student collaboration portal for learning resources and project sharing. | React • Node.js • Express • MongoDB |
+|-------|-------------|-----------|
+| **EventReply** | Production event & RSVP platform used by **10K+ users**. Improved Lighthouse **20% → 80%+**, added Jest testing, Sentry monitoring, and optimized load performance. | Angular • Ionic • TypeScript • Jest |
+| **Frensy** | Hybrid **home-services + social** platform with **200K+ listings**. Automated Android builds via GitLab CI/CD. | Angular • Ionic • TypeScript |
+| **Dating App (Internal)** | Built real-time **chat system** with AWS Serverless + WebSockets. | Node.js • AWS Lambda • Ionic |
+| **EchoWave (MERN)** | Social platform with posts, likes, and real-time chat. | React • Node • MongoDB |
+| **VVIT LearnSpace** | Student learning and collaboration platform. | React • Node • Express |
 
 ---
 
-## 🛠️ Tech Stack Badges
+# 📊 GitHub Stats
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSurya007&show_icons=true&theme=tokyonight)
+
+---
 
 ---
 

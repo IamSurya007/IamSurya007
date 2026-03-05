@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Surya Pillutla**  
+<h1 align="center">
+  👋 Hi, I'm <br>
+  <span style="font-size: 48px;">Surya Pillutla</span>
+</h1>
+
 ### 💻 Frontend & Full Stack Developer (Angular • Ionic • React • Node.js • TypeScript)
 
 I’m a passionate Frontend/Full-Stack Developer with **2+ years of experience** building scalable, performant, and user-focused web & hybrid mobile applications.  
@@ -67,12 +71,6 @@ I love turning ideas into clean, efficient code and constantly exploring modern 
 | **Dating App (Internal)** | Built real-time **chat system** with AWS Serverless + WebSockets. | Node.js • AWS Lambda • Ionic |
 | **EchoWave (MERN)** | Social platform with posts, likes, and real-time chat. | React • Node • MongoDB |
 | **VVIT LearnSpace** | Student learning and collaboration platform. | React • Node • Express |
-
----
-
-# 📊 GitHub Stats
-
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSurya007&show_icons=true&theme=tokyonight)
 
 ---
 
